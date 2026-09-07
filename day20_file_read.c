@@ -6,7 +6,7 @@
 struct Packet {
     char src_ip[16];
     char dest_ip[16];
-    char payload[256];
+    char payload[256] ;
     int port;
 };
 
