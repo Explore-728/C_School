@@ -1,0 +1,1 @@
+Day-1======================1.使用 sizeof（）可以查询字节数如：printf("%lu\n",(unsigned long)sizeof(age)) ;2.%p为查询地址如：printf("%p\n",&age);3.int字节数为4   char字节数为1   float字节数为4
